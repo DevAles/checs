@@ -1,1 +1,5 @@
-build/
+# CMake build files
+build/*
+
+# Clang format file
+.clang-format
